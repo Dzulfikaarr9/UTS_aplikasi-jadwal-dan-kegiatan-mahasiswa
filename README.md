@@ -1,7 +1,7 @@
-# Aplikasi Flutter Aplikasi Jadwal dan Kegiatan Mahasiswa : Navigasi 3 Halaman
+# Aplikasi Flutter Jadwal dan Kegiatan Mahasiswa : Navigasi 3 Halaman
 1. Halaman Utama : Menampilkan kegiatan mahasiswa
-2. Halaman Jadwal: Menampilkan jadwal perkuliahan
-3. Halaman Profil: Menampilkan data pengguna
+2. Halaman Jadwal : Menampilkan jadwal perkuliahan
+3. Halaman Profil : Menampilkan data pengguna
 
 # Link Youtube 
 
